@@ -1,0 +1,16 @@
+body {
+  min-height: 100vh;
+}
+
+.navbar-brand {
+  letter-spacing: 0.02em;
+}
+
+.card-header {
+  font-weight: 600;
+}
+
+.semaforo-morado {
+  background-color: #6f42c1;
+  color: #fff;
+}
